@@ -1,6 +1,6 @@
 # TP Jour 3 — Chirpy : branchement au backend réel
 
-**Durée : 1 h 15** · **Prérequis : TP jour 2 terminé + backend lancé** · **Solution de référence : `solutions/jour-3/`**
+**Prérequis : TP jour 2 terminé + backend lancé** · **Solution de référence : `solutions/jour-3/`**
 
 ## Objectif
 
